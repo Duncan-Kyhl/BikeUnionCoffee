@@ -1,0 +1,36 @@
+<p>Milestone 1&nbsp;</p><p>BIA 354</p><p>Sophia Barnes, Duncan Kyhl, Thomas Parker, and Maura Small&nbsp;</p><p><b>Executive Summary&nbsp;</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;The Bike Union is a combined coffee house and a bike shop located in downtown Omaha, Nebraska. The Bike Union also features a mentoring program, for youth ages 18-24 who have been in foster care, helping young adults work on job and life skills development. They hope to connect young adults to the workforce and support their self-sufficiency through professional, personal, emotional, and financial literacy programming. One hundred percent of the revenue earned through their coffee shop and bike shop is reinvested in their mentoring programs for the Omaha community.&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;The Bike Union &amp; Coffee currently mentors four young adults in their Workforce Development Program (WDP). While their individual bike and coffee shops are well organized, the WDP lacks proper data tracking and effective record-keeping of program related data for individual program members. Our recommendation is the creation of a "digital resume" accessible to employees within The Bike Union &amp; Coffee Website.&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp;In addition to the tools of MySQL and PHP used in class, we will make use of HTML, JavaScript, and CSS. We will use MySQL and PHP because they are open source and function<span style="font-size: 1rem; font-family: Nunito, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">&nbsp;well in today's business climate. The front-end tools of&nbsp;</span><span style="font-size: 1rem; font-family: Nunito, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">HTML, Javascript, and CSS are well known and relatively simple to use for the creation of an interface for interacting with our database.</span><br></p><p><b>Business Case Summary:</b></p><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family: &quot;Arial Black&quot;;"><span style="font-family: system-ui; font-size: 16px;">The Bike Union &amp;
+Coffee currently manages a program of great potential, but due to it's small
+size, has not yet developed a single, organized, easy-to-use system for
+tracking the progress of individuals throughout the Workforce Development
+Program. At the moment, The Bike Union &amp; Coffee tracks most program related
+data in Excel spreadsheets.</span><span style="font-size: 16px;"> </span></span></p><p style="margin:0in;font-family:Calibri;font-size:11.0pt"><span style="font-family: system-ui; font-size: 16px;">&nbsp;</span></p><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family: system-ui; font-size: 16px;">This project will
+deliver a website for executives and members of the Workforce Development
+Program to login to, over the internet, and make requests to the web server
+created with HTML, CSS, and JS, to update personal and professional information
+regarding their progress in the program. The web server will forward the
+request to the appropriate web application server, PHP, where the requested
+task will query a MySQL database. The generated results will send the
+information back through the chain to return the desired output on the user's
+display.</span></p><p><span style="font-family: system-ui; font-size: 16px;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span></p><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family: system-ui; font-size: 16px;">With this process, a
+functional, and visually appealing interface will be created for internal and
+external use. Internally, executives will be able to accurately record, and
+have a detailed awareness of, each individual in the program. Simultaneously, individuals
+within the program will gain resume-style writing experience as they create a
+visually meaningful presentation of their skills, which can be shared in the
+attainment of future job and life opportunities.&nbsp;</span></p><p style="margin:0in;font-family:Calibri;font-size:11.0pt"><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Our group has been in contact with Ashley Carlson, who is the Development Program Manager. We first called Ashley to extend our request for, and when she was excited about what we had to offer, we started emailing about important information that we needed to gather before starting this project. Since our first contact, we have identified the specific need that the Bike Union wants us to focus on, how we plan on creating a useful database for the employees, and finalized and signed our contract.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Members have one and only one program manager, the opposite in reverse. Members can be in multiple programs. Members must participate in the barista program, mindfulness, health &amp; nutrition, and financial literacy, but optionally participate in the bike program. Multiple students can be in multiple programs at once. Each program can have multiple students in it. Each program has a title/topic, a goal, requirements, and a date, and a frequency. Every Executive has a name, position, date hired, and compensation. Every member has a name, education, contact information, demographic information, and wage. Not every member has previous employment.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>ame is duncan<p></p><p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
